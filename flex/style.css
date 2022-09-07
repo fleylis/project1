@@ -1,0 +1,31 @@
+body { 
+    background-color: rgb(120, 37, 214); 
+    } 
+    header {  
+        display: flex; 
+        justify-content: right; 
+        align-items: center; 
+    } 
+    .figmalogo img { 
+        width: 40px; 
+        justify-content: end;
+    } 
+    main { 
+        display: flex; 
+        padding-left: 50px; 
+        gap: 105px; 
+    } 
+    p { 
+        font-family:'Franklin Gothic Medium'; 
+        font-weight: 250px; 
+        color: white; 
+        font-size: 100px; 
+    } 
+    .plank { 
+        width: 450px; 
+    } 
+    .plank img { 
+        width: 100%; 
+    }
+    
+    
